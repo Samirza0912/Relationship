@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP-ViewComponent", "ASP-ViewComponent\ASP-ViewComponent.csproj", "{DF3ECFB8-D3F2-4AC6-B9D4-7F7AD57509BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3ECFB8-D3F2-4AC6-B9D4-7F7AD57509BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3ECFB8-D3F2-4AC6-B9D4-7F7AD57509BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3ECFB8-D3F2-4AC6-B9D4-7F7AD57509BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3ECFB8-D3F2-4AC6-B9D4-7F7AD57509BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC54BB0C-940E-4324-A29D-DB988AC3E325}
+	EndGlobalSection
+EndGlobal
