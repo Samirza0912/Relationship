@@ -1,0 +1,29 @@
+﻿@model Book
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">Price: $@Model.Price</p>
+        <p>
+            <span>Authors: </span>
+            @foreach (var item in Model.BookAuthors)
+            {
+                <a>@item.Authors.Name</a>
+            }
+        </p>
+
+        <p>
+            <span>Genres:</span>
+            @foreach (var item in Model.BookGenres)
+            {
+                <a>@item.Genres.Name</a>
+            }
+        </p>
+        <a asp-action="index" class="btn btn-danger ">Return To Home</a>
+    </div>
+</div>
+

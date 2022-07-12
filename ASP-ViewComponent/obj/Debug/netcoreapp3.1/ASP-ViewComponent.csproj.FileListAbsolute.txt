@@ -178,3 +178,7 @@ C:\Users\ASUS\Desktop\ASP-ViewComponent-main\ASP-ViewComponent\obj\Debug\netcore
 C:\Users\ASUS\Desktop\ASP-ViewComponent-main\ASP-ViewComponent\obj\Debug\netcoreapp3.1\ASP-ViewComponent.csproj.CopyComplete
 C:\Users\ASUS\Desktop\ASP-ViewComponent-main\ASP-ViewComponent\obj\Debug\netcoreapp3.1\ASP-ViewComponent.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\ASP-ViewComponent-main\ASP-ViewComponent\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\ASP-ViewComponent-main\ASP-ViewComponent\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\ASP-ViewComponent-main\ASP-ViewComponent\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\ASP-ViewComponent-main\ASP-ViewComponent\obj\Debug\netcoreapp3.1\Razor\Views\Book\Update.cshtml.g.cs
+C:\Users\ASUS\Desktop\ASP-ViewComponent-main\ASP-ViewComponent\obj\Debug\netcoreapp3.1\Razor\Views\Book\Detail.cshtml.g.cs
